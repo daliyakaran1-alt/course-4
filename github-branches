@@ -1,0 +1,9 @@
+Command:
+git branch -avv
+
+Terminal output:
+  bug-fix-typo                e51526e Fix typo in author comment
+* main                        e51526e [origin/main: ahead 1] Fix typo in author comment
+  remotes/origin/HEAD         -> origin/main
+  remotes/origin/bug-fix-typo e51526e Fix typo in author comment
+  remotes/origin/main         ad95b0a Create close_pr.yml
